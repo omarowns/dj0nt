@@ -19,6 +19,7 @@
     "gulp": "^3.9.0",
     "gulp-connect": "^2.3.1",
     "stringify": "^3.2.0",
+    "stripify": "^4.0.0",
     "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {
