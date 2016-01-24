@@ -1,6 +1,6 @@
 'use strict';
 
-TransformerFactory. = [];
+TransformerFactory.$inject = [];
 
 function TransformerFactory() {
     var service = {
