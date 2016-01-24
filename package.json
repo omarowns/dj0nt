@@ -1,7 +1,7 @@
 {
   "name": "dj0nt",
   "version": "1.0.0",
-  "description": "Conversion tool from normal to dj0nt",
+  "description": "dj0nt is an application to convert normal text to a dj0nt style text. For instance: `This is normal text` on dj0nt is `Th0s 0s n0rm0l t0xt`. This project uses AngularJS, Gulp, Browserify at it's heart.",
   "main": "public/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "dj0nt"
   ],
   "author": "Omar Garcia",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "browserify": "^13.0.0",
     "gulp": "^3.9.0",
