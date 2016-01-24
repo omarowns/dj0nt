@@ -1,20 +1,15 @@
 'use strict';
 
-ApplicationController.$inject = ['transformer'];
+ApplicationController.$inject = [];
 
 
-function ApplicationController(transformer) {
+function ApplicationController() {
     var vm = this;
-    vm.change = change;
     activate();
 
     ////////////////
 
     function activate() {
-    }
-
-    function change() {
-        vm.djonted = transformer.transform(vm.input);
     }
 }
 
